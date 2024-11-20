@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
 
         <h1>Gender Detection App</h1>
         <p>
@@ -69,4 +67,4 @@
             <li>Libraries like TensorFlow, Scikit-learn, or PyTorch (depending on the implementation).</li>
             <li>Any datasets or resources used in training.</li>
         </ul>
-</html>
+
