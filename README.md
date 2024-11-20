@@ -1,7 +1,7 @@
 
 # Gender Detection App
 
-This project is a Gender Detection App that utilizes machine learning techniques to classify an individual's gender based on specific features or datasets. The app is designed to be simple, user-friendly, and efficient, making it suitable for various applications, including educational purposes, research, and real-world implementations. As the folder size is bigger than 100MB, we add it in the release.
+This project is a Gender Detection App that utilizes machine learning techniques to classify an individual's gender based on specific features or datasets. The app is designed to be simple, user-friendly, and efficient, making it suitable for various applications, including educational purposes, research, and real-world implementations. `As the folder size is bigger than 100MB, we added it in the releases.`
 
 ## Features
 
