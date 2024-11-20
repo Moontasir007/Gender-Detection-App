@@ -2,7 +2,6 @@
 <html lang="en">
 
 <body>
-    <div class="container">
         <h1>Gender Detection App</h1>
         <p>
             This project is a <strong>Gender Detection App</strong> that utilizes machine learning techniques to classify an individual's gender based on specific features or datasets. 
@@ -71,6 +70,5 @@
             <li>Libraries like TensorFlow, Scikit-learn, or PyTorch (depending on the implementation).</li>
             <li>Any datasets or resources used in training.</li>
         </ul>
-    </div>
 </body>
 </html>
